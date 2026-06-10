@@ -4,7 +4,7 @@ from main import determine_winner
 class TestDetermineWinner(unittest.TestCase):
 
     def test_team_a_wins(self):
-        match = {
+        match ={
             "team_a": "T1",
             "team_b": "GenG",
             "score_a": 2,
