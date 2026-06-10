@@ -1,5 +1,5 @@
 # (1) Phân tích & Clean Code
-# 1. Đặt tên biến và hàm theo chuẩn PEP 8
+# 1. Đặt tên biến và hàm theo chuẩn PEP8
 # match_list
 # match_id
 # team_a
